@@ -137,24 +137,24 @@
 
 * #### FRONTEND
     <a href="#"><img src="https://img.shields.io/badge/HTML5-E34F26?style=plastic&logo=html5&logoColor=white"/></a>
-    <a href="#"><img src="https://img.shields.io/badge/javascript-EFD81D?style=plastic&logo=javascript&logoColor=white"/></a>
-    <a href="#"><img src="https://img.shields.io/badge/typescript-3178C6?style=plastic&logo=typescript&logoColor=white"/></a>
+    <a href="#"><img src="https://img.shields.io/badge/JavaScript-EFD81D?style=plastic&logo=javascript&logoColor=white"/></a>
+    <a href="#"><img src="https://img.shields.io/badge/TypeScript-3178C6?style=plastic&logo=typescript&logoColor=white"/></a>
     <a href="#"><img src="https://img.shields.io/badge/React-68D5F3?style=plastic&logo=react&logoColor=white"/></a>
-    <a href="#"><img src="https://img.shields.io/badge/webpack-8DD6F9?style=plastic&logo=webpack&logoColor=white"/></a>
+    <a href="#"><img src="https://img.shields.io/badge/Webpack-8DD6F9?style=plastic&logo=webpack&logoColor=white"/></a>
     
 * #### BACKEND
-    <a href="#"><img src="https://img.shields.io/badge/javascript-EFD81D?style=plastic&logo=javascript&logoColor=white"/></a>
-    <a href="#"><img src="https://img.shields.io/badge/typescript-3178C6?style=plastic&logo=typescript&logoColor=white"/></a>
-    <a href="#"><img src="https://img.shields.io/badge/node.js-339933?style=plastic&logo=node.js&logoColor=white"/></a>
+    <a href="#"><img src="https://img.shields.io/badge/JavaScript-EFD81D?style=plastic&logo=javascript&logoColor=white"/></a>
+    <a href="#"><img src="https://img.shields.io/badge/TypeScript-3178C6?style=plastic&logo=typescript&logoColor=white"/></a>
+    <a href="#"><img src="https://img.shields.io/badge/Node.js-339933?style=plastic&logo=node.js&logoColor=white"/></a>
     <a href="#"><img src="https://img.shields.io/badge/MySQL-005E85?style=plastic&logo=mysql&logoColor=white"/></a>
     <a href="#"><img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=plastic&logo=Amazon AWS&logoColor=white"/></a>
-    <a href="#"><img src="https://img.shields.io/badge/postman-F76934?style=plastic&logo=postman&logoColor=white"/></a>
+    <a href="#"><img src="https://img.shields.io/badge/Postman-F76934?style=plastic&logo=postman&logoColor=white"/></a>
 
 * #### COMMUNICATION
-    <a href="#"><img src="https://img.shields.io/badge/github-1B1E23?style=plastic&logo=github&logoColor=white"/></a>
+    <a href="#"><img src="https://img.shields.io/badge/Github-1B1E23?style=plastic&logo=github&logoColor=white"/></a>
     <a href="#"><img src="https://img.shields.io/badge/Slack-D91D57?style=plastic&logo=slack&logoColor=white"/></a>
     <a href="#"><img src="https://img.shields.io/badge/Trello-2580F7?style=plastic&logo=trello&logoColor=white"/></a>
-    <a href="#"><img src="https://img.shields.io/badge/notion-000000?style=plastic&logo=notion&logoColor=white"/></a>
+    <a href="#"><img src="https://img.shields.io/badge/Notion-000000?style=plastic&logo=notion&logoColor=white"/></a>
 
 <br>
 
